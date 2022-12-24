@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "About Me"
 ---
 
 Currently I've already completed my thesis, and with my supervisor Dr Beheshti’s MIT background, 
