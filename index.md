@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-![miaosen](miaosen.jpg))
+![miaosen](miaosen.jpg)
 
 Miaosen Zhou
 
