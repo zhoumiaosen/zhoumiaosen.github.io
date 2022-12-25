@@ -3,6 +3,8 @@ layout: page
 title: "About Me"
 ---
 
+![miaosen](miaosen.jpg))
+
 Miaosen Zhou
 
 <li class="inline-block">
