@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "miaosen.pdf", title: "CV"}
   - {title: "MASc Supervisor",url: "https://www.ecb.torontomu.ca/~soosan/"}
   - {file: "blog.md", title: "Blog"}
-  - {file: "README.md", title: "About me"}
+  - {file: "index.md", title: "About me"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
