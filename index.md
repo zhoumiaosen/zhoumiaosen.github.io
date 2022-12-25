@@ -23,6 +23,4 @@ Hello! I'm currently an Accelerated MASc Student majoring in Electrical and Comp
 
 ## Latest news and Updates:
 
-
-# April-2022: 
-Graduated from Toronto Metropolitan University (Formerly: Ryerson University) with a Bachelor's degree in Computer Engineering.
+April-2022: Graduated from Toronto Metropolitan University (Formerly: Ryerson University) with a Bachelor's degree in Computer Engineering.
