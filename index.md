@@ -11,10 +11,15 @@ Hello! I'm currently an Accelerated MASc Student majoring in Electrical and Comp
 
 ## Research Interests: 
 ·  Machine Learning
+
 ·  Quantum Computing
+
 ·  Signal Processing
+
 ·  Data Denoising
+
 ·  System Modeling
+
 
 ## Latest news and Updates:
 
