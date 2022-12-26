@@ -17,6 +17,7 @@ minimal: true              # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "MASc Supervisor",url: "https://www.ecb.torontomu.ca/~soosan/"}
+  - {file: "index.md", title: "About me"}
   - {file: "blog.md", title: "Blog"}
   - {file: "cv.md", title: "CV"}
   
