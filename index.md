@@ -27,4 +27,4 @@ Hello! I'm currently an Accelerated MASc Student majoring in Electrical and Comp
 
 ·  April-2022: Graduated from Toronto Metropolitan University (Formerly: Ryerson University) with a Bachelor's degree in Computer Engineering.
 
-·  May-2021: Joined Information Processing (SIP) Laboratory under Dr. Beheshti’s supervision.
+·  May-2021: Joined Signal and Information Processing (SIP) Laboratory under Dr. Beheshti’s supervision.
