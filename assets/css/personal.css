@@ -220,16 +220,21 @@ h3 {
 
 .secondary-lead {
   max-width: 900px;
+  margin-bottom: 24px;
   color: #858078;
   font-size: clamp(1.12rem, 1.75vw, 1.5rem);
   line-height: 1.65;
+}
+
+.hero-intro .secondary-lead:last-of-type {
+  margin-bottom: 0;
 }
 
 .actions {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  margin-top: 54px;
+  margin-top: 44px;
 }
 
 .button {
@@ -257,6 +262,14 @@ h3 {
   border-top: 1px solid var(--line);
 }
 
+.section-lead {
+  max-width: 860px;
+  margin: -20px 0 44px;
+  color: #858078;
+  font-size: clamp(1.08rem, 1.6vw, 1.32rem);
+  line-height: 1.65;
+}
+
 .contact-links {
   display: flex;
   flex-wrap: wrap;
@@ -271,21 +284,21 @@ h3 {
 
 .direction-list {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1px;
   background: var(--line);
   border: 1px solid var(--line);
 }
 
 .direction-list article {
-  min-height: 250px;
-  padding: 30px;
+  min-height: 360px;
+  padding: 30px 28px;
   background: var(--paper);
 }
 
 .direction-list span {
   display: block;
-  margin-bottom: 54px;
+  margin-bottom: 42px;
   color: var(--gold);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.2rem;
